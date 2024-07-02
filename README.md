@@ -30,6 +30,10 @@ Modify your styles.css file to include Tailwind CSS:
 @tailwind components;
 @tailwind utilities;
 
-#Output:
-![Angular Navbar with Dropdown Menu](https://github.com/RasanjaliHerath/Angular18NavBar/assets/154677088/ae35f3e2-1254-4502-8c11-1e0dd2f0acd0)
+# Output:
+![NavBar View](https://github.com/RasanjaliHerath/Angular18NavBar/assets/154677088/cc97ce47-aff7-4d3a-8711-0644262f96f3)
+)
 .png)
+![Dropdawn Menu View](https://github.com/RasanjaliHerath/Angular18NavBar/assets/154677088/ae35f3e2-1254-4502-8c11-1e0dd2f0acd0)
+.png)
+
